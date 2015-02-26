@@ -1,0 +1,9 @@
+#Sat Feb 21 12:10:09 VET 2015
+srcTextAnalyticsPath=[P]textAnalytics/src
+general.provenance=true
+pagination.isEnabled=true
+tamTextAnalyticsPath=[P]textAnalytics/bin
+searchPath.dataPath=[W]/HBaseFirstLook
+UseModularAQL=true
+pagination.numFilesPerPage=50
+langWare.tokenizerChoice=1
